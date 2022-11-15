@@ -32,6 +32,7 @@ class MainActivity : AppCompatActivity() {
         binding.bottomNav.setupWithNavController(navController)
     }
 
+
     private fun navButton(){
         appBarConfiguration = AppBarConfiguration(navController.graph, binding.drawerLayout)
         NavigationUI.setupActionBarWithNavController(this, navController, binding.drawerLayout)
