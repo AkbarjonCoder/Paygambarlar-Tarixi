@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Payg\'ambarlar Tarixi</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="payg_ambarlar_tarixi">Payg\'ambarlar Tarixi</string>
+    <string name="made_by_bestapp">Made by BestApp</string>
+    <string name="todo">TODO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="name1">Odam A.S</string>
+    <string name="name2">Idris A.S</string>
+    <string name="name3">Nuh A.S</string>
+    <string name="name4">Hud A.S</string>
+    <string name="name5">Solih A.S</string>
+    <string name="name6">Ibrohim A.S</string>
+    <string name="name7">Lut A.S</string>
+    <string name="name8">Ismoil A.S</string>
+    <string name="name9">Isxoq A.S</string>
+    <string name="name10">Yaqub A.S</string>
+    <string name="name11">Yusuf A.S</string>
+    <string name="name12">Ayyub A.S</string>
+    <string name="name13">Shuayb A.S</string>
+    <string name="name14">Muso A.S</string>
+    <string name="name15">Horun A.S</string>
+    <string name="name16">Yunus A.S</string>
+    <string name="name17">Dovud A.S</string>
+    <string name="name18">Sulaymon A.S</string>
+    <string name="name19">Ilyos A.S</string>
+    <string name="name20">Alyasa A.S</string>
+    <string name="name21">Zakariyo A.S</string>
+    <string name="name22">Iso A.S</string>
+    <string name="name23">Muhammad A.S</string>
+
+    <string name="stan1">18:19</string>
+    <string name="stan2">05:09</string>
+    <string name="stan3">19:43</string>
+    <string name="stan4">08:21</string>
+    <string name="stan5">12:10</string>
+    <string name="stan6">12:06</string>
+    <string name="stan7">07:31</string>
+    <string name="stan8">12:30</string>
+    <string name="stan9">03:24</string>
+    <string name="stan10">04:51</string>
+    <string name="stan11">15:11</string>
+    <string name="stan12">19:37</string>
+    <string name="stan13">09:04</string>
+    <string name="stan14">27:32</string>
+    <string name="stan15">08:21</string>
+    <string name="stan16">06:50</string>
+    <string name="stan17">08:18</string>
+    <string name="stan18">11:07</string>
+    <string name="stan19">09:12</string>
+    <string name="stan20">06:28</string>
+    <string name="stan21">08:22</string>
+    <string name="stan22">21:06</string>
+    <string name="stan23">23:58</string>
+    <string name="home">Home</string>
+    <string name="list">List</string>
+    <string name="save">Save</string>
+    <string name="profile">Profile</string>
+</resources>
