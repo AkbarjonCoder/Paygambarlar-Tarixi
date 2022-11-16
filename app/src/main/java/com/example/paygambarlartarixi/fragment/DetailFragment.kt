@@ -15,7 +15,6 @@ import com.example.paygambarlartarixi.database.Image
 import com.example.paygambarlartarixi.databinding.FragmentDetailBinding
 import com.google.android.material.floatingactionbutton.FloatingActionButton
 
-
 class DetailFragment : Fragment() {
 
     private lateinit var myImageManager: MyImageManager
@@ -31,16 +30,15 @@ class DetailFragment : Fragment() {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
-//        initViews(view)
+        initViews(view)
     }
-//
-//    private fun initViews(view: View) {
-//        val newImage = arguments?.getParcelable<Image>("image")
-//        newImage.let { image ->
-//            binding.imageDetail.setImageResource(image?.image!!)
-//        }
-//
-//    }
+
+    private fun initViews(view: View) {
+    val newImage = arguments?.getParcelable<Image>("image")
+    newImage.let { image ->
+        binding.imageDetail.setImageResource(image?.image!!)
+    }
+}
 
     inner class SetImage : AsyncTask<Unit, Unit, Unit>() {
         override fun doInBackground(vararg p0: Unit?) {

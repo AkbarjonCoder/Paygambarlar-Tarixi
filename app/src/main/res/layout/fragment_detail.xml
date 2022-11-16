@@ -51,7 +51,7 @@
             android:backgroundTint="@color/primary"/>
 
         <com.google.android.material.floatingactionbutton.FloatingActionButton
-            android:id="@+id/btnBinasa"
+            android:id="@+id/btnSaveGallery"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:src="@drawable/ic_baseline_arrow_downward_24"
@@ -60,7 +60,7 @@
             android:backgroundTint="@color/primary"/>
 
         <com.google.android.material.floatingactionbutton.FloatingActionButton
-            android:id="@+id/btnLike"
+            android:id="@+id/btnShare"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:src="@drawable/ic_share"
